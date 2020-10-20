@@ -1,6 +1,6 @@
 # One-GORD
 
-- [NeurIPS2020: One-sample Guided Object Representation Disassembling](), (released soon)
+- NeurIPS2020: [One-sample Guided Object Representation Disassembling](), (released soon)
 
 ![archi](images/architecture.png)
 
