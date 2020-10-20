@@ -151,4 +151,16 @@ python test_for_Modularity.py
 # calculate modularity metrics
 python modularity_metrics_cal.py
 ```
+## Citation
+
+Soon.
+
+## Contact
+
+If you have any questions, please feel free to contact
+
+Zunlei Feng, zunleifeng@zju.edu.cn
+
+Yongming He, yongminghe@zju.edu.cn
+
 
